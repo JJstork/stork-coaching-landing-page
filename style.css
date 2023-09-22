@@ -204,4 +204,8 @@ ul img {
     .text h3 {
         font-size: 2em;
     }
+
+    header h2 a {
+        font-size: 1.5rem;
+    }
 }
